@@ -1,0 +1,5 @@
+- **API**: An Application Programming Interface (API) is a set of rules and protocols that allow software applications to communicate and exchange data.  
+- **SDK**: A Software Development Kit (SDK) is a collection of tools, libraries, and documentation that developers use to create software for specific platforms.  
+- **Web APIs**: Web APIs are APIs that facilitate communication between applications over the internet using protocols like HTTP.  
+- **Library APIs**: Library APIs provide predefined functions or routines that developers can use to build software without writing code from scratch.  
+- **Prompting and Completion**: Prompting involves giving input to a generative AI model, while completion is the model’s generated response based on the input.  
